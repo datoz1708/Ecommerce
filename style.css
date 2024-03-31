@@ -518,6 +518,9 @@ main {
     border: 2px solid #EEEEEE;
     background-color: #ffffff;
     cursor: pointer;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: Plus Jakarta Sans;
 }
 
 .sale-icon {
